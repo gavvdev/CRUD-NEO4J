@@ -16,7 +16,7 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) em **Python**,
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Gabipsn11/CRUD-NEO4J.git
+git clone (nome do repositorio)
 cd CRUD-NEO4J
 
 # Crie e ative um ambiente virtual (opcional, mas recomendado)
@@ -81,8 +81,3 @@ Neo4j
 neo4j driver oficial
 
 python-dotenv para variáveis de ambiente
-
-## 📄 Licença
-Projeto desenvolvido por Gabriela Pires – 2025.
-
-Se quiser, posso também te ajudar a já adicionar e subir isso direto para o seu repositório :)
